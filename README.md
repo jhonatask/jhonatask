@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Jhonata Nazareno   👋 
 
-- 🔭 I’m currently working on project of Sankhya Design System ERP.
-- 🔭 Atualmente estou trabalhando em projeto de Sankhya Design System ERP.
 - 🌱 I’m currently learning Type Script and improving my knowledge in react.
 - 🌱 Estou aprendendo Type Script e aprimorando meus conhecimentos em react.
 - 🎮🎮 I'm a lover of FPS games like CSGO AND PUGB.
