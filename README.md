@@ -1,54 +1,182 @@
-# Olá! Eu sou o Jhonata Nazareno   👋 
+# Jhonata Nazareno Campelo Cirqueira
 
-### Engenheiro de Softwares
+**Desenvolvedor Java Sênior | Full Stack | Quarkus & Spring Boot | React & Angular**
 
-- 🌱 I’m currently learning Type Script and improving my knowledge in react.
-- 🌱 Estou aprendendo Type Script e aprimorando meus conhecimentos em react.
-- 🎮🎮 I'm a lover of FPS games like CSGO , PUGB, DOTA2 AND WOW.
-- 🎮🎮 Sou amante de jogos de FPS tipo CSGO, PUGB, DOTA2 E WOW.
+📍 Goiânia, GO — Brasil (Remoto)
+📧 jhonatask@gmail.com
+📱 (62) 98629-0070
+🔗 [LinkedIn](https://linkedin.com/in/jhonatask) · [GitHub](https://github.com/jhonatask)
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Jhonata-JAVA" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img align="center" alt="Jhonata-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jhonata-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Jhonata-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Jhonata-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Jhonata-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<div style="displayÇ inline_block">
+---
 
-  ## Tecnologias e Ferramentas 🛠️
+## Sobre mim
 
- [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)]()
- [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
- [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)]()
- [![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)]()
- [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)]()
- [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
- [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)]()
- [![Azure](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)]()
- [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)]()
- [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]()
- [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]()
- [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
- [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)]()
- [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)]()
- [![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)]()
- [![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
- [![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)]()
-</div>
+Desenvolvedor Java com **6+ anos de experiência** em desenvolvimento full stack de aplicações empresariais. Especializado em arquitetura de microservices, APIs REST e sistemas cloud-native. Expertise consolidada em **Quarkus (4+ anos)** e **Spring Boot**, com experiência prática com **Java 21** em produção — incluindo DDD com bounded contexts, aggregate roots e domain events.
 
- ## Redes Sociais
-  <a href = "mailto:jhonatask@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562986290070)
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/jhonatask)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatask)
-  <a href="https://www.twitch.tv/stivinhosk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/jhonata.cirqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+Atuação em todo o ciclo de desenvolvimento: da análise de requisitos ao deploy e manutenção, aplicando **Arquitetura Limpa**, **SOLID**, **TDD** e **Clean Code**. Participante ativo de comunidade Quarkus, onde auxilia desenvolvedores iniciantes.
 
-<div>
-  <a href="https://github.com/jhonatask">
-    <img  heigth= "180em" align="center" src="https://github-readme-stats.vercel.app/api?username=jhonatask&show_icons=true&include_all_commits=true&theme=dark" /> | 
-    <img heigth= "180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatask&layout=compact&langs_count=16&theme=dark" />
-  </a>
-</div>
+---
+
+## Experiência profissional
+
+### Engenheiro de Software — Softplan *(Jan/2024 – Atual)*
+> Florianópolis, SC (Remoto)
+
+Desenvolvimento end-to-end de features em Java (8/11/17/21), Spring Boot 3.x, Quarkus, React e Angular. Implementação de APIs RESTful com OpenAPI/Swagger, integração entre sistemas e sustentação de soluções críticas seguindo Arquitetura Limpa e SOLID.
+
+`Java` `Spring Boot 3.x` `Quarkus` `React` `Angular` `TypeScript` `REST` `OpenAPI` `Git`
+
+---
+
+### Desenvolvedor Full Stack — Logiks Soluções em TI *(Nov/2023 – Jan/2024)*
+> Brasília, DF (Remoto)
+
+Desenvolvimento de APIs backend com Spring Boot e Quarkus; atuação full stack com Angular e JavaScript.
+
+`Java` `Spring Boot` `Quarkus` `Angular` `JavaScript`
+
+---
+
+### Desenvolvedor Full Stack — Sankhya Gestão de Negócios *(Out/2022 – Out/2023)*
+> Uberlândia, MG (Remoto)
+
+Novos produtos e melhorias no ERP Sankhya. Desenvolvimento de BFF (Backend for Frontend) com Quarkus para simplificar comunicação entre frontend e múltiplos microservices. Implementação de API Gateways e integrações REST/SOAP com sistemas externos.
+
+`Java EE 8/11` `Spring Boot` `Quarkus` `React` `Angular` `API Gateway` `BFF`
+
+---
+
+### Desenvolvedor Full Stack — Supera Inovação em Tecnologia *(Dez/2021 – Out/2022)*
+> Goiânia, GO
+
+Migração de sistemas monolíticos para microservices com Quarkus, Panache ORM e MapStruct. Desenvolvimento de aplicações escaláveis com mensageria via RabbitMQ e bancos SQL/NoSQL. Implementação de testes automatizados (TDD) e pipelines CI/CD com Docker.
+
+`Java` `Spring Boot` `Quarkus` `Docker` `RabbitMQ` `MongoDB` `MySQL` `MSSQL` `JUnit` `Mockito` `DevOps`
+
+---
+
+### Responsável por Projetos & Desenvolvedor — Hoje Tecnologia *(Mai/2018 – Nov/2020)*
+> Goiânia, GO
+
+Liderança técnica na implantação de sistemas de controle de acesso para condomínios. Desenvolvimento e manutenção de sistemas legados em Java e Delphi. Gestão de equipes e prazos de entrega.
+
+`Java` `Delphi`
+
+---
+
+### Experiências anteriores
+
+| Período | Empresa | Cargo |
+|---|---|---|
+| Ago/2015 – Set/2017 | BTCC Conexão Cliente | Agente de Retenção e Suporte ao Cliente |
+| Set/2013 – Mai/2015 | Polícia Militar de Goiás | Soldado, Programador e Técnico de Informática |
+| Jun/2011 – Set/2013 | Gigasoft Informática | Gerente |
+| Jan/2010 – Jun/2011 | Exército Brasileiro | Soldado de Infantaria, Técnico de Informática |
+
+---
+
+## Projetos pessoais
+
+### MVP Mão na Roda — Sistema de Serviços On-Demand
+> `Java 21` `Quarkus 3.x` `PostgreSQL 15` `Hibernate Panache` `JWT` `WebSocket` `PostGIS` `Docker` `DDD`
+
+Backend completo com **arquitetura DDD** e **Java 21**: 11 bounded contexts, value objects, domain events e aggregate roots. Autenticação JWT, agendamentos, chat em tempo real com áudio e imagem via WebSocket, pagamentos via PIX, busca geoespacial com PostGIS e sistema de créditos. Documentação completa com Swagger.
+
+---
+
+### JGarage — Sistema de Gestão de Garagens
+> `Java 21` `Quarkus 3.8.0` `Next.js` `React` `TypeScript`
+
+API RESTful com Quarkus e Java 21 integrada a frontend moderno com Next.js e React.
+
+---
+
+### Proposta App — Gestão de Propostas
+> `Spring Boot 3` `JPA` `PostgreSQL` `RabbitMQ` `WebSocket` `Docker` `MapStruct`
+
+API REST com processamento assíncrono via RabbitMQ, notificações em tempo real com WebSocket e mapeamento de DTOs com MapStruct.
+
+---
+
+### App Tarefas — Sistema Reativo de Tarefas
+> `Spring Boot 3` `Spring WebFlux` `MongoDB` `Redis` `OAuth2` `AWS S3` `AWS Lambda`
+
+Sistema reativo com Spring WebFlux, cache com Redis, autenticação OAuth2, armazenamento no AWS S3 e processamento de eventos com AWS Lambda.
+
+---
+
+### SGU — Sistema de Gerenciamento de Usuários
+> `Spring Boot 3` `JPA` `PostgreSQL` `Flyway` `Docker` `Angular` `TypeScript`
+
+Sistema full stack com CRUD de usuários e departamentos, importação via CSV, migrations versionadas com Flyway e arquitetura limpa.
+
+---
+
+### Feedback Campus — Gestão de Feedbacks Acadêmicos
+> `Spring Boot` `JPA` `PostgreSQL` `Angular` `TypeScript` `Docker` `Clean Architecture`
+
+Sistema completo (backend, frontend web e mobile) para gestão de feedbacks acadêmicos desenvolvido durante a graduação.
+
+---
+
+## Stack
+
+| Categoria | Tecnologias |
+|---|---|
+| **Backend** | Java 8/11/17/21 · Spring Boot 2.x/3.x · Spring Framework · Spring WebFlux · Quarkus 3.x · Java EE |
+| **ORM & Persistência** | JPA · Hibernate · Panache ORM · Flyway · Liquibase · MapStruct |
+| **Bancos de Dados** | PostgreSQL · MySQL · SQL Server · Oracle · MongoDB · Redis |
+| **Mensageria** | RabbitMQ · Apache Kafka · Spring AMQP · Event-Driven Architecture |
+| **Cloud & DevOps** | Docker · Kubernetes · AWS (S3, Lambda) · CI/CD (Jenkins, GitLab CI, GitHub Actions) |
+| **Testes** | JUnit 4/5 · Mockito · TestContainers · TDD |
+| **Arquitetura** | Clean Architecture · DDD · SOLID · Microservices · BFF · API Gateway · Reactive |
+| **Frontend** | React · Angular · Next.js · TypeScript · JavaScript · HTML5 · CSS3 |
+| **Ferramentas** | Maven · Gradle · Git · IntelliJ IDEA · Postman · OpenAPI/Swagger · Jira |
+
+---
+
+## Formação
+
+**Tecnologia em Análise e Desenvolvimento de Sistemas**
+Estácio — Tecnologia da Informação / Sistemas da Informação
+
+---
+
+## Cursos e certificações
+
+- Semana Spring React
+- Object Calisthenics: Exercitando a Orientação a Objetos
+- Desenvolvimento Rápido de Aplicações em Python para Cloud, IoT e BigData
+- Programação para Internet
+- PHP Orientado a Objetos
+
+---
+
+## Comunidade
+
+- Participante ativo de grupo de estudos de Quarkus — auxilia desenvolvedores iniciantes e expande o conhecimento do framework na comunidade
+- Desenvolvimento contínuo de projetos open source e pessoais no GitHub
+
+---
+
+## Idiomas
+
+| Idioma | Nível |
+|---|---|
+| Português | Nativo |
+| Inglês | Básico (Leitura e Escrita) |
+
+---
+
+## Conteúdo deste repositório
+
+| Arquivo | Descrição |
+|---|---|
+| [`CURRICULO_JAVA_SENIOR_REMOTO_PJ.md`](./CURRICULO_JAVA_SENIOR_REMOTO_PJ.md) | Currículo completo otimizado para vagas Java Sênior |
+| [`CURRICULO_JAVA_SENIOR_JHONATA_PJ.pdf`](./CURRICULO_JAVA_SENIOR_JHONATA_PJ.pdf) | Versão PDF do currículo |
+| [`01_ANALISE_TECNICA_COMPLETA.md`](./01_ANALISE_TECNICA_COMPLETA.md) | Análise técnica da stack e compatibilidade ATS |
+| [`02_CURRICULO_IDEAL_JAVA_ATS.md`](./02_CURRICULO_IDEAL_JAVA_ATS.md) | Template ATS-compatible com narrativa de impacto |
+| [`03_LINKEDIN_OTIMIZADO_JAVA.md`](./03_LINKEDIN_OTIMIZADO_JAVA.md) | Headline, seção "Sobre" e SEO para LinkedIn |
+| [`04_RECOMENDACOES_CARREIRA_JAVA.md`](./04_RECOMENDACOES_CARREIRA_JAVA.md) | Cargos, certificações e roteiro de estudos |
+| [`05_SUGESTOES_FINAIS_OBJETIVAS.md`](./05_SUGESTOES_FINAIS_OBJETIVAS.md) | Ações práticas: GitHub, portfólio, entrevistas |
+| [`ANALISE_REMUNERACAO_PJ_JHONATA.md`](./ANALISE_REMUNERACAO_PJ_JHONATA.md) | Análise de remuneração PJ |
