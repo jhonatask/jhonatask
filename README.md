@@ -168,15 +168,3 @@ Estácio — Tecnologia da Informação / Sistemas da Informação
 
 ---
 
-## Conteúdo deste repositório
-
-| Arquivo | Descrição |
-|---|---|
-| [`CURRICULO_JAVA_SENIOR_REMOTO_PJ.md`](./CURRICULO_JAVA_SENIOR_REMOTO_PJ.md) | Currículo completo otimizado para vagas Java Sênior |
-| [`CURRICULO_JAVA_SENIOR_JHONATA_PJ.pdf`](./CURRICULO_JAVA_SENIOR_JHONATA_PJ.pdf) | Versão PDF do currículo |
-| [`01_ANALISE_TECNICA_COMPLETA.md`](./01_ANALISE_TECNICA_COMPLETA.md) | Análise técnica da stack e compatibilidade ATS |
-| [`02_CURRICULO_IDEAL_JAVA_ATS.md`](./02_CURRICULO_IDEAL_JAVA_ATS.md) | Template ATS-compatible com narrativa de impacto |
-| [`03_LINKEDIN_OTIMIZADO_JAVA.md`](./03_LINKEDIN_OTIMIZADO_JAVA.md) | Headline, seção "Sobre" e SEO para LinkedIn |
-| [`04_RECOMENDACOES_CARREIRA_JAVA.md`](./04_RECOMENDACOES_CARREIRA_JAVA.md) | Cargos, certificações e roteiro de estudos |
-| [`05_SUGESTOES_FINAIS_OBJETIVAS.md`](./05_SUGESTOES_FINAIS_OBJETIVAS.md) | Ações práticas: GitHub, portfólio, entrevistas |
-| [`ANALISE_REMUNERACAO_PJ_JHONATA.md`](./ANALISE_REMUNERACAO_PJ_JHONATA.md) | Análise de remuneração PJ |
